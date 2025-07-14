@@ -27,7 +27,7 @@ Fomentar el aprendizaje autónomo y visual de la ortografía, motivando a estudi
 
 ## 📄 Licencia
 
-Este recurso es propiedad de [sinfaltas.com](https://www.sinfaltas.com) y se comparte con fines educativos.
+Este recurso es propiedad de [https://www.orientacionandujar.es/](https://www.orientacionandujar.es/2016/12/16/la-tabla-periodica-la-ortografia-by-sin-faltas/) y se comparte con fines educativos.
 
 ---
 
