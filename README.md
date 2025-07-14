@@ -17,6 +17,15 @@ Ayuda a estudiantes, docentes y cualquier persona interesada en mejorar su escri
 
 El usuario puede explorar cada "elemento" de la tabla, que contiene una regla ortográfica resumida junto con un ejemplo práctico. Su diseño por colores facilita la identificación de temas relacionados (acentuación, letras, signos, etc.).
 
+## 💻 Tecnologías utilizadas
+
+Esta herramienta fue desarrollada usando:
+
+- **HTML5** para la estructura del contenido.
+- **CSS3** para el diseño visual y el estilo de la tabla.
+- **JavaScript** para funcionalidades interactivas (si se incluye exploración dinámica o ventanas emergentes al hacer clic en los elementos).
+
+
 ## 🎓 Propósito educativo
 
 Fomentar el aprendizaje autónomo y visual de la ortografía, motivando a estudiantes de todas las edades a mejorar sus habilidades lingüísticas de una forma innovadora.
