@@ -23,7 +23,7 @@ Fomentar el aprendizaje autónomo y visual de la ortografía, motivando a estudi
 
 ## 📷 Vista previa
 
-![Tabla Periódica de la Ortografía](ruta/a/tu/imagen.jpg)
+![Tabla Periódica de la Ortografía](https://github.com/Emmarin04/Tabla_Periodica-Ortografia/blob/main/Tabla_Periodica_Ortografia.jpg)
 
 ## 📄 Licencia
 
